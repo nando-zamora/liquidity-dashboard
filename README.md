@@ -26,7 +26,7 @@ Google Apps Script, Google Sheets, Tableau
 
 ## Visualizaciones destacadas
 
-![Dashboard de liquidez](dliquidez.png)
+![dliquidez](dliquidez.png)
 
 🔗 [Ver dashboard interactivo en Tableau Public](https://public.tableau.com/app/profile/hernando.zamora5276/viz/Liquidez_17891531474460/Dashboard1?publish=yes)
 
